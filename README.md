@@ -9,4 +9,4 @@ Este repositorio contiene documentos públicos de QuienGarpa.
 
 ## Publicación
 
-Este repositorio está pensado para publicarse con GitHub Pages.
+Este repositorio se utiliza para publicar la política de privacidad mediante GitHub Pages.
